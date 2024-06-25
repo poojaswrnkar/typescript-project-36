@@ -1,5 +1,5 @@
 C:\sonarqube\sonar-scanner-6.0.0.4432-windows\bin\sonar-scanner
-Dsonar.projectKey=aws
+Dsonar.projectKey=poojaswrnkar_typescript-project-36
 Dsonar.sources=.\
-Dsonar.host.url=http://localhost:9000 \
-Dsonar.token=sqp_08606f54d21a31835789d3d76779a8e4156f528a
+Dsonar.host.url=http://sonarcloud.io \
+Dsonar.token=9b899af42422d8045deaa0b5c14b892472347dad
